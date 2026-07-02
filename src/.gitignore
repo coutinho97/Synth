@@ -1,0 +1,23 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Build directories (muito comum)
+build/
+Build/
+cmake-build-*/
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+
+# Outros ficheiros comuns de build
+*.a
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+
+# Dependências
+*.d
